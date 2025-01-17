@@ -1,2 +1,2 @@
-# webdesign4everyone.github.com
+# charaniaks.github.com
 The website for Web Design For Everyone
